@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DocumentoDoEnzinho</title>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:wght@500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body class="dark">
+
+<div class="container">
+ <img class="avatar" 
+ src="https://github.com/enzocavalcante.png" 
+ alt="imagem enzo"/>
+
+  <h1>OS GLADIADORES</h1>
+  <p class="username">Vamos lutar pelo nosso povo
+     até que nossa vitória seja
+      que nem frutos de ouro!
+</p>
+
+  <ul>
+ <li>
+  <a href="https://www.tiktok.com/@eqp.amarelaaz?lang=pt-BR"target="_blank">📹TIKTOK</a>
+  </li>
+
+  <li>
+<a href="https://instagram.com/eqp.amarelaz"target="_blank">📷Instagram</a>
+  </li>
+
+  <li>
+   
+  </li>
+
+  <li>
+  <a href="https://api.whatsapp.com/send?phone=71991290233&text=Ol%C3%A1%2C%20esse%20%C3%A9%20o%20meu%20n%C3%BAmero!"
+  target="_blank">🕊️Whatsapp (LIDER)</a>
+  </li>
+
+    </ul>
+      
+      </div>
+</body>
+</html>
